@@ -30,12 +30,12 @@ I am a passionate developer interested in **Frontend, Backend, and Game Developm
 ### 📊 GitHub Stats
 #### 💡 My Most Used Languages
 <a href="https://github.com/only1Ksy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=only1Ksy&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=only1Ksy&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=default" />
 </a>
 
 #### 💡 My Git Stats 
 <a href="https://github.com/only1Ksy">
-    <img src="https://github-readme-stats.vercel.app/api?username=only1Ksy&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+    <img src="https://github-readme-stats.vercel.app/api?username=only1Ksy&hide_title=true&show_icons=true&include_all_commits=true&theme=default" />
 </a>
 
 ---
