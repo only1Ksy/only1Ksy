@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text=${Hello World!}&fontSize=${50}&animation=${twinkling})
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!&fontSize=50&animation=twinkling)
 ### Hi there, I'm only1Ksy! 👋
 
 🌟 **Welcome to my GitHub profile!** 🌟
@@ -27,14 +27,15 @@ I am a passionate developer interested in **Frontend, Backend, and Game Developm
 </p>
 
 ---
+### 📊 GitHub Stats
 #### 💡 My Most Used Languages
-<a href="https://github.com/${only1Ksy}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${only1Ksy}&layout=compact&show_icons=${true}&show_owner=${true}&hide_title=${true}&theme=${nord}&hide=${}" />
+<a href="https://github.com/only1Ksy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=only1Ksy&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
 </a>
 
 #### 💡 My Git Stats 
-<a href="https://github.com/${only1Ksy}">
-    <img src="https://github-readme-stats.vercel.app/api?username=${only1Ksy}&hide=${}&hide_title=${true}&show_icons=${true}&include_all_commits=${true}&theme=${nord}" />
+<a href="https://github.com/only1Ksy">
+    <img src="https://github-readme-stats.vercel.app/api?username=only1Ksy&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
 </a>
 
 ---
