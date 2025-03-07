@@ -41,7 +41,7 @@ I am a passionate developer interested in **Frontend, Backend, and Game Developm
 ---
 ### 📌 More About Me
 - 🌱 I’m currently improving my skills in **Frontend, Backend, and Game Development**
-- 📌 Check out my Notion for more details: [My Notion](https://difficult-gibbon-5cc.notion.site/?v=980599c5195b45dd8e3f2ae189cda8df&pvs=4)
+- 📌 Check out my Notion, Velog for more details: [My Notion](https://difficult-gibbon-5cc.notion.site/?v=980599c5195b45dd8e3f2ae189cda8df&pvs=4), [My Velog](https://velog.io/@only1ksy/posts)
 
 ---
 ### 📫 Contact
