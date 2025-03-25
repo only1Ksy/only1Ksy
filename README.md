@@ -11,6 +11,7 @@ I am a passionate developer interested in **Frontend, Backend, and Game Developm
 - 이화여자대학교 교내 알고리즘 학습•프로그래밍 동아리 EDOC 18기 (2024.09~2025.02)
 - 신촌 연합 IT 창업 동아리 CEOS FE 21기 (2025.03~)
 
+---
 ### 🚀 Tech Stack
 
 #### 🖥️ Frontend
