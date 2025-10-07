@@ -12,6 +12,13 @@ I am a passionate developer interested in **Frontend, Backend, and Game Developm
 - 신촌 연합 IT 창업 동아리 CEOS FE 21기 (2025.03~)
 
 ---
+### 📂 Projects
+- **프로메사(Promesa)**  
+  도예 전공자들의 작품을 전시하고 판매하는 플랫폼  
+  🍶 [Promesa](https://promesa.co.kr) ｜ 💻 [GitHub](https://github.com/username/promesa)
+
+
+---
 ### 🚀 Tech Stack
 
 #### 🖥️ Frontend
