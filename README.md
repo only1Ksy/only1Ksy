@@ -1,15 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!&fontSize=50&animation=twinkling)
-### Hi there, I'm only1Ksy! 👋
-
-🌟 **Welcome to my GitHub profile!** 🌟
-
-I am a passionate developer interested in **Frontend, Backend, and Game Development**. 
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seoyeon%20Kim&fontSize=50&animation=twinkling)
 ---
 ### 💁‍♀️ Experiences
-- 이화여자대학교 컴퓨터공학과 (2023.03~)
-- 이화여자대학교 교내 알고리즘 학습•프로그래밍 동아리 EDOC 18기 (2024.09~2025.02)
-- 신촌 연합 IT 창업 동아리 CEOS FE 21기 (2025.03~)
+- 이화여자대학교 컴퓨터공학과 (2023.03 ~)
+- 이화여자대학교 교내 알고리즘 학습•프로그래밍 동아리 EDOC 18기 (2024.09 ~ 2025.02)
+- 신촌 연합 IT 창업 동아리 CEOS FE 21기 (2025.03 ~ 2025.08)
+- 신촌 연합 IT 창업 동아리 CEOS 22기 FE 운영진 (2025.09 ~)
 
 ---
 ### 📂 Projects
@@ -60,11 +55,5 @@ I am a passionate developer interested in **Frontend, Backend, and Game Developm
 
 ---
 ### 📌 More About Me
-- 🌱 I’m currently improving my skills in **Frontend, Backend, and Game Development**
-- 📌 Check out my Notion, Velog for more details: [My Notion](https://difficult-gibbon-5cc.notion.site/?v=980599c5195b45dd8e3f2ae189cda8df&pvs=4), [My Velog](https://velog.io/@only1ksy/posts)
-
----
-### 📫 Contact
-📧 Feel free to reach out via GitHub Issues or Discussions!
-
-🚀 Let's build something amazing together!
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://difficult-gibbon-5cc.notion.site/?v=980599c5195b45dd8e3f2ae189cda8df&pvs=4)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@only1ksy/posts)
