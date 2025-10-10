@@ -1,16 +1,24 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seoyeon%20Kim&fontSize=50&animation=twinkling)
 ---
 ### 💁‍♀️ Experiences
-- 이화여자대학교 컴퓨터공학과 (2023.03 ~)
-- 이화여자대학교 교내 알고리즘 학습•프로그래밍 동아리 EDOC 18기 (2024.09 ~ 2025.02)
-- 신촌 연합 IT 창업 동아리 CEOS FE 21기 (2025.03 ~ 2025.08)
-- 신촌 연합 IT 창업 동아리 CEOS FE 22기 운영진 (2025.09 ~)
+- 이화여자대학교 컴퓨터공학과 <sub>(2023.03 ~)</sub>
+- 이화여자대학교 교내 알고리즘 학습•프로그래밍 동아리 EDOC 18기 <sub>(2024.09 ~ 2025.02)</sub>
+- 신촌 연합 IT 창업 동아리 CEOS FE 21기 <sub>(2025.03 ~ 2025.08)</sub>
+- 신촌 연합 IT 창업 동아리 CEOS FE 22기 운영진 <sub>(2025.09 ~)</sub>
 
 ---
 ### 📂 Projects
-- **프로메사(Promesa)**  
+- **프로메사(Promesa)** <sub>(2025.06 ~ 2025.08)</sub>  
   도예 전공자들의 작품을 전시하고 판매하는 플랫폼  
   🍶 [Promesa](https://promesa.co.kr) ｜ 💻 [GitHub](https://github.com/username/promesa)
+- **산지직팜** <sub>(2025.08 ~ 2025.10)</sub>  
+  로컬푸드 소비와 탄소 절감을 연결하는 K-PaaS 기반 친환경 클라우드 플랫폼  
+  🌳 [Sanjijikfarm](https://sanjijikfarm-frontend.vercel.app/) |  💻 [GitHub](https://github.com/SanjiJikFarm/FE)
+
+
+---
+### 📜 Certificates
+- **SQLD (SQL 개발자)** <sub>(2025.09)</sub>
 
 
 ---
